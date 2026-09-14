@@ -1,25 +1,34 @@
-# CCNA-Packet-Tracer-Projects
-Cisco Packet Tracer networking projects and labs created while preparing for CCNA certification.
+
 # CCNA Packet Tracer Projects
 
-This repository contains my Cisco Packet Tracer networking labs created while learning and preparing for CCNA.
+This repository contains my Cisco Packet Tracer networking labs and projects created while learning and preparing for the CCNA certification.
 
 ## Projects
 
-### OSPF
-- Configured OSPF routing between multiple routers
-- Verified OSPF neighbor relationships
-- Tested end-to-end connectivity
+### 1. Static Routing
+Configured static routes between multiple routers and verified end-to-end connectivity using ping and routing table commands.
 
-### EIGRP
-- Configured EIGRP routing between multiple routers
-- Verified route learning
-- Tested connectivity between networks
+### 2. DHCP
+Configured a Cisco router as a DHCP server to automatically assign IP addresses, subnet masks, default gateways, and DNS information to client devices. Verified DHCP address allocation and network connectivity.
 
-## Technologies
-- Cisco IOS
+### 3. EIGRP
+Configured EIGRP between multiple routers and verified route learning and end-to-end connectivity.
+
+### 4. OSPF
+Configured OSPF between multiple routers and verified OSPF neighbor relationships, route learning, and end-to-end connectivity.
+
+## Technologies & Concepts
+
 - Cisco Packet Tracer
-- OSPF
-- EIGRP
+- Cisco IOS
 - IPv4
+- Static Routing
+- DHCP
+- EIGRP
+- OSPF
 - Routing & Switching
+- Network Troubleshooting
+
+## Purpose
+
+These projects demonstrate my practical networking skills and hands-on experience with Cisco networking concepts while preparing for the CCNA certification.
