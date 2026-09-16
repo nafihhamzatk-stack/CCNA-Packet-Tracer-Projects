@@ -17,6 +17,16 @@ Configured EIGRP between multiple routers and verified route learning and end-to
 ### 4. OSPF
 Configured OSPF between multiple routers and verified OSPF neighbor relationships, route learning, and end-to-end connectivity.
 
+### 5. Telnet and SSH
+Configured remote access to Cisco network devices using Telnet and SSH. Configured device authentication, passwords, VTY lines, and verified remote connectivity from client devices.
+
+### 6. EIGRP and DHCP Troubleshooting Using Telnet
+Troubleshot EIGRP routing and DHCP configuration issues through remote access using Telnet. Identified and corrected configuration errors and verified routing, DHCP address allocation, and end-to-end connectivity.
+
+### 7. OSPF and DHCP Troubleshooting Using Telnet
+Troubleshot OSPF routing and DHCP configuration issues through remote access using Telnet. Identified and corrected configuration errors, verified OSPF route learning and DHCP address allocation, and tested end-to-end connectivity.
+
+
 ## Technologies & Concepts
 
 - Cisco Packet Tracer
