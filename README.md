@@ -26,6 +26,14 @@ Troubleshot EIGRP routing and DHCP configuration issues through remote access us
 ### 7. OSPF and DHCP Troubleshooting Using Telnet
 Troubleshot OSPF routing and DHCP configuration issues through remote access using Telnet. Identified and corrected configuration errors, verified OSPF route learning and DHCP address allocation, and tested end-to-end connectivity.
 
+### 8. RIP Dynamic Routing
+Configured dynamic routing between two Cisco routers using RIP. Verified route learning, routing table updates, and end-to-end connectivity between the connected networks.
+
+### 9. Standard ACL Troubleshooting
+Configured and troubleshot a standard Access Control List (ACL) to control network traffic based on source IP addresses. Identified configuration errors, corrected ACL rules, and verified the required traffic filtering and connectivity.
+
+### 10. Extended ACL Troubleshooting
+Configured and troubleshot an extended Access Control List (ACL) to control network traffic based on source IP, destination IP, and protocol or port. Identified configuration errors, corrected ACL rules, and verified the required traffic filtering and connectivity.
 
 ## Technologies & Concepts
 
