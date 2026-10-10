@@ -46,7 +46,16 @@ Configured and troubleshot an extended Access Control List (ACL) to control netw
 - OSPF
 - Routing & Switching
 - Network Troubleshooting
+This repository contains Cisco Packet Tracer projects focused on VLAN configuration, VLAN trunking, VLAN Trunking Protocol (VTP), and network connectivity using routers and Layer 3 switches. These projects demonstrate practical networking concepts, network segmentation, and inter-VLAN communication.
 
+Projects Included  
+this repository contains Cisco Packet Tracer projects focused on VLAN configuration, VLAN trunking, VLAN Trunking Protocol (VTP), and network connectivity using routers and Layer 3 switches. These projects demonstrate practical networking concepts, network segmentation, and inter-VLAN communication.
+VLAN Assignment: Creating VLANs and assigning switch ports to specific VLANs.
+VLAN Trunking: Configuring trunk links to carry traffic from multiple VLANs between switches.
+VLAN Trunking Protocol (VTP): Managing and distributing VLAN information across switches.
+Different VLAN Connection Topologies: Practising VLAN configuration with different network connections.
+VLAN with Router: Exploring VLAN connectivity using a router and a single physical connection.
+VLAN with Router and Layer 3 Switch: Practising VLAN networking using a router and Layer 3 switch.
 ## Purpose
 
 These projects demonstrate my practical networking skills and hands-on experience with Cisco networking concepts while preparing for the CCNA certification.
