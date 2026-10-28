@@ -34,6 +34,41 @@ Configured and troubleshot a standard Access Control List (ACL) to control netwo
 
 ### 10. Extended ACL Troubleshooting
 Configured and troubleshot an extended Access Control List (ACL) to control network traffic based on source IP, destination IP, and protocol or port. Identified configuration errors, corrected ACL rules, and verified the required traffic filtering and connectivity.
+11. VLAN Assignment
+
+Created VLANs and assigned switch ports to specific VLANs to implement logical network segmentation.
+
+12. VLAN Trunking
+
+Configured trunk links to carry traffic from multiple VLANs between switches.
+
+13. VLAN Trunking Protocol (VTP)
+
+Practised VLAN management and the distribution of VLAN information between switches using VTP.
+
+14. VLAN Connection Topologies
+
+Explored different network connection arrangements involving VLANs to understand switching configurations and connectivity.
+
+15. VLAN Configuration with a Router
+
+Practised VLAN connectivity using a router and a single physical connection, exploring router-based inter-VLAN communication.
+
+16. VLAN Configuration with a Router and Layer 3 Switch
+
+Explored network connectivity using a router and Layer 3 switch to understand routing and switching integration.
+
+17. Hot Standby Router Protocol (HSRP)
+
+Practised gateway redundancy using HSRP. Explored active and standby router roles and the use of a virtual IP address as the default gateway.
+
+18. IPv6 Static Routing
+
+Configured static routes for IPv6 networks to enable communication between different networks through routers.
+
+19. Port Address Translation (PAT)
+
+Practised PAT, also known as NAT overload, to allow multiple internal devices to share a public IPv4 address when accessing external networks.
 
 ## Technologies & Concepts
 
